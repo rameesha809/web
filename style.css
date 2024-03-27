@@ -30,7 +30,7 @@ align-items: center;
 }
 #first{
     height: 100vh;
-    background-image: url(file:///C:/Users/haier/Desktop/Web/Project/assets/top-section.jpg);
+    background-image: url(assets/top-section.jpg);
     width:100%;
     background-size: cover;
     background-position: center;
